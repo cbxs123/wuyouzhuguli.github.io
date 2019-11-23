@@ -1,3 +1,4 @@
+http://mrbird.cc/CI-CD-Practice-Note.html
 http://mrbird.cc/GitLab-Jenkins-Install-Note.html
 http://mrbird.cc/Harbor.html
 http://mrbird.cc/Kubernetes-Resource-Management.html
