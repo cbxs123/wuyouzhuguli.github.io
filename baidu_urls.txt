@@ -1,3 +1,9 @@
+http://mrbird.cc/IDEA-Docker-Plugin.html
+http://mrbird.cc/Kubernetes-Service-Discovery-Summary.html
+http://mrbird.cc/Kubernetes-Ingress.html
+http://mrbird.cc/Kubernetes-StatefulSet.html
+http://mrbird.cc/Kubernetes-StorageClass-Practice.html
+http://mrbird.cc/Kubernetes-PV-PVC.html
 http://mrbird.cc/CI-CD-Practice-Note.html
 http://mrbird.cc/GitLab-Jenkins-Install-Note.html
 http://mrbird.cc/Harbor.html
